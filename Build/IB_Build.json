@@ -1,0 +1,13 @@
+{
+"companyName": "JJMoyer",
+"productName": "I'm Bored",
+"dataUrl": "IB_Build.data.unityweb",
+"wasmCodeUrl": "IB_Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "IB_Build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
